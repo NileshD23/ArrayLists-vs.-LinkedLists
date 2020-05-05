@@ -1,4 +1,4 @@
-// Written by omoto011 and domah001
+// written by Nilesh Domah
 
 public class LinkedList<T extends Comparable<T>> implements List<T> {
     private boolean isSorted;
